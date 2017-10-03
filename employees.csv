@@ -3,4 +3,9 @@ employee_id,first_name,last_name,hire_date,salary
 101,Neena,Kochhar,1989-09-21,17000.00
 102,Lex,De Haan,1993-01-13,17000.00
 103,Alexander,Hunold,1990-01-03,9000.00
-104,zhenk,letkin,2017-10-02,5000
+104,zhenk,letkin,2017-10-03,5000
+105,gena,kulikov,2017-10-03,6000
+106,letkin,5000,2017-10-03,5000
+107,gena,kulikov,2017-10-03,6000
+108,zhenk,letkin,2017-10-03,5000
+109,gena,kulikov,2017-10-03,4000
